@@ -18,9 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Tianyi Lim
-email: 0.tianyi.lim@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+title: "/home/tianyilim"
+author: Tianyi Lim
+email: tian.lim19@imperial.ac.uk
+description: >- # this means to ignore newlines
+  Tianyi Lim's website
+blurb: >-
   Landing page to showcase Tianyi's work and hobbies.
   Expect to encounter some science, a little art, and a lot of nerdiness.
 baseurl: "" # the subpath of your site, e.g. /blog
