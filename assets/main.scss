@@ -1,0 +1,24 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: safe space-evenly;
+    align-items: center;
+    align-content: stretch;
+}
+
+.column {
+    padding: 3px;
+    flex-basis: 0%;
+    align-content: center;
+}
+
+img {
+    object-fit: cover;
+    vertical-align: middle;
+}
