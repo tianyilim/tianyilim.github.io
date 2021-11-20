@@ -9,8 +9,6 @@ GitHub pages [documentation](https://docs.github.com/en/pages) is available here
 ---
 
 Things to improve:
-- Adding nice formatting to the photos page - perhaps ordering it in grid form?
-- Adding something that parses the attached image json file to show caption and locations, without hashtags.
 - Portfolio to link to distinct pages with longer writeups
 - Portfolio to look nice
 - Add Mars Rover experience to Portfolio
