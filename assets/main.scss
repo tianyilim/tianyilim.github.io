@@ -8,7 +8,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: safe space-evenly;
-    align-items: center;
+    align-items: normal;
     align-content: stretch;
 }
 
@@ -21,4 +21,23 @@
 img {
     object-fit: cover;
     vertical-align: middle;
+    
+}
+
+.left_capt {
+    font-size: small;
+    font-style: oblique;
+    text-align: left;
+}
+
+.right_capt {
+    font-size: small;
+    font-style: oblique;
+    text-align: right;
+}
+
+.center_capt {
+    font-size: small;
+    font-style: oblique;
+    text-align: center;
 }
