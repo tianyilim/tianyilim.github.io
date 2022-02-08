@@ -12,6 +12,8 @@ Hopefully these projects inspire you to do something cool of your own.
 
 If you have any questions about these projects, I would love to get in touch!
 
+Mostly for my convenience, here are some of my config files: [tmux](assets/tmux.conf)
+
 ---
 <br>
 <a name="sumobot2022">
