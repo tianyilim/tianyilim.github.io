@@ -20,9 +20,20 @@ In my spare time, I enjoy dreaming up (and sometimes building) robots, some of w
 ---
 <br>
 <h2>Links</h2>
-- LinkedIn: <https://www.linkedin.com/in/tianyilim/>
-- Email: <tian.lim19@imperial.ac.uk>
-- GitHub: <https://github.com/tianyilim>
+<a href="https://www.instagram.com/stratosphere._/">
+  <img align="left" alt="Tianyi's Instagram" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" />
+</a>
+<a href="https://www.linkedin.com/in/tianyilim/">
+  <img align="left" alt="Tianyi's LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />
+</a>
+<a href="0.tianyi.lim@gmail.com">
+  <img align="left" alt="Tianyi's Email" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" />
+</a>
+<a href="https://tianyilim.github.io/assets/TianyiLim_CV.pdf">
+  <img align="left" alt="Tianyi's CV" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobeacrobatreader.svg" />
+</a>
+
+![vistors](https://visitor-badge.glitch.me/badge?page_id=tianyilim.tianyilim.github.io)
 
 ---
 <br>
