@@ -15,6 +15,12 @@ If you have any questions about these projects, I would love to get in touch!
 Mostly for my convenience, here are some of my config files: [tmux](assets/tmux.conf)
 
 ---
+### [BEng Final Year Project (2022)](beng_fyp_2022)
+
+
+[Details](beng_fyp_2022)
+
+---
 ### Eurobot Competition (2022)
 
 [Details](eurobot_2022)
