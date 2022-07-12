@@ -21,6 +21,13 @@ My individual project to end off three years in Imperial College London, about D
 <p align="left">  <img width="400" src="../assets/BEng_FYP/dwa_trajectory_sel_1.png"> </p>
 
 ---
+#### [Formula Student AI](fsai_22)
+I competed in the driverless class of Formula Student, helping the fledgling team get off its feet.
+
+<p align="left">  <img width="400" src="../assets/FSAI_22/Sprint_race.JPG"> </p>
+
+---
+
 #### [Eurobot Competition (2022)](eurobot_2022)
 A competition with the Imperial College Robotics Society.
 
