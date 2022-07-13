@@ -34,7 +34,7 @@ github_username:  tianyilim
 
 # Build settings
 theme: minima
-markdown: kramdown
+markdown: GFM
 plugins:
   - jekyll-feed
 
