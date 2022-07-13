@@ -34,7 +34,7 @@ github_username:  tianyilim
 
 # Build settings
 theme: minima
-markdown: GFM
+markdown: kramdown
 # Change MD renderer to GFM so that tables render correctly: https://github.community/t/tables-not-rendering-in-github-pages/174235
 plugins:
   - jekyll-feed
