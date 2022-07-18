@@ -11,7 +11,7 @@ layout: home
 ---
 <br>
 <h2>About Me</h2>
-I am a third year BEng Electrical and Information Engineering (or, Computer Engineering) student at Imperial College London. I will be continuing my studies at ETH Zurich, doing a MSc in Robotics, Systems, and Control.
+I am an incoming Masters student at ETH Zurich, doing a MSc in Robotics, Systems, and Control. Recently, I completed a BEng in Electronic and Information Engineering (or, Computer Engineering) at Imperial College London.
 
 Robotics has always been my passion since I picked it up in high school - there is something fascinating about being able to impart intelligence to otherwise inanimate objects, allowing them to perform useful tasks and potentially replace humans.
 
