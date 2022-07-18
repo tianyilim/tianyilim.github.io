@@ -29,6 +29,8 @@ blurb: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: tianyilim.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://tianyilim.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+disqus:
+  shortname: tyl-website          # for comments
 github_username:  tianyilim
 # twitter_username: iDoNotUseTwitter
 
@@ -45,9 +47,6 @@ header_pages:
   - photog.md
   - portfolio.md
 
-# for comments
-disqus:
-  shortname: tyl-website
 
 # Exclude from processing.
 # The following items will not be processed, by default.
