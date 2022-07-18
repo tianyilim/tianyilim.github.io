@@ -18,6 +18,35 @@
     align-content: center;
 }
 
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+p.column_3 {
+    float: left; 
+    text-align:center; 
+    vertical-align: middle; 
+    align-content: center; 
+    width: 31%;
+    margin-right: 1%; 
+    margin-bottom: 0.5em;
+}
+
+/* Two image containers (use 25% for four, and 50% for two, etc) */
+p.column_2 {
+    float: left; 
+    text-align:center; 
+    vertical-align: middle; 
+    align-content: center; 
+    width: 48%;
+    margin-right: 1%; 
+    margin-bottom: 0.5em;
+  }
+  
+/* Clear floats after image containers */
+  .row_img::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
 img {
     object-fit: cover;
     vertical-align: middle;
