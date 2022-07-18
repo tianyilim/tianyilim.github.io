@@ -39,6 +39,15 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 
+# Things that we want to appear in the top nav bar
+header_pages:
+  - cv.md
+  - photog.md
+  - portfolio.md
+
+# for comments
+disqus:
+  shortname: tyl-website
 
 # Exclude from processing.
 # The following items will not be processed, by default.
