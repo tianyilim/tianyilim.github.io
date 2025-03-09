@@ -4,36 +4,36 @@ title: Photos
 permalink: /photos/
 ---
 
-Chase Jarvis said that the best camera is the one you have with you, but I would prefer shooting with my Nikon D750, if possible. On occasion, I post photos on Instagram under `@stratosphere._`.
+Chase Jarvis said that the best camera is the one you have with you, but I would prefer shooting with my Nikon D750, if possible. On occasion, I post photos on Instagram under `@stratosphere._`
 
 Here are some random images from my travels.
 
-*The Albert memorial near Imperial College*
 <p align="left">  <img width="600" src="../assets/gallery/albert-memorial.jpg"> </p>
+*The Albert memorial near Imperial College*
 
-*Sunset in Barcelona*
 <p align="left">  <img width="600" src="../assets/gallery/barcelona-sunsets.jpg"> </p>
+*Sunset in Barcelona*
 
-*Bittersweet memories of the Dolomites*
 <p align="left">  <img width="600" src="../assets/gallery/dolomities-camper.jpg"> </p>
+*Bittersweet memories of the Dolomites*
 
-*(re)learning control policies for manual driving in Denmark*
 <p align="left">  <img width="600" src="../assets/gallery/first-manual.jpg"> </p>
+*(re)learning control policies for manual driving in Denmark*
 
-*The Castle*
 <p align="left">  <img width="600" src="../assets/gallery/foggy-castle.jpg"> </p>
+*The Castle*
 
-*Mysterious Fussen*
 <p align="left">  <img width="600" src="../assets/gallery/foggy-fussen.jpg"> </p>
+*Mysterious Fussen*
 
-*Stars | Snow | Skiing*
 <p align="left">  <img width="600" src="../assets/gallery/snow-and-stars.jpg"> </p>
+*Stars | Snow | Skiing*
 
-*Cycling in Switzerland - uphills and downhills were equally fun*
 <p align="left">  <img width="600" src="../assets/gallery/swiss-cycling.jpg"> </p>
+*Cycling in Switzerland - uphills and downhills were equally fun*
 
-*Who let the dogs out?*
 <p align="left">  <img width="600" src="../assets/gallery/the-dawgs.jpg"> </p>
+*Who let the dogs out?*
 
 
 <!-- <div class="row">
