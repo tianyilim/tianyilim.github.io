@@ -17,6 +17,14 @@ Mostly for my convenience, here are some of my config files: [tmux](assets/tmux.
 ---
 #### [F1Tenth with ETH(2023-2024)](forzaETH)
 
+---
+#### [Pose Graph Optimization for large-scale SLAM](master_thesis)
+
+---
+#### [Basic RL for vision-based drone flight (2024)](rpgDroneCourse)
+
+---
+#### [Perception for Big Autonomous Trucks (2023)](embotechInternship)
 
 ---
 #### [BEng Final Year Project (2022)](beng_fyp_2022)
