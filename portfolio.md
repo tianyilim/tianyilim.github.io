@@ -15,19 +15,22 @@ If you have any questions about these projects, I would love to get in touch!
 Mostly for my convenience, here are some of my config files: [tmux](assets/tmux.conf)
 
 ---
+#### [F1Tenth with ETH(2023-2024)](forzaETH)
+
+
+---
 #### [BEng Final Year Project (2022)](beng_fyp_2022)
-My individual project to end off three years in Imperial College London, about Distributed Multi-Robot Planning in ROS.
+My individual project to end off three years in Imperial College, about Distributed Multi-Robot Planning in ROS.
 
 <p align="left">  <img width="400" src="../assets/BEng_FYP/dwa_trajectory_sel_1.png"> </p>
 
 ---
-#### [Formula Student AI](fsai_22)
+#### [Formula Student AI (2022)](fsai_22)
 I competed in the driverless class of Formula Student, helping the fledgling team get off its feet.
 
 <p align="left">  <img width="400" src="../assets/FSAI_22/Sprint_race.JPG"> </p>
 
 ---
-
 #### [Eurobot Competition (2022)](eurobot_2022)
 A competition with the Imperial College Robotics Society.
 
@@ -44,10 +47,6 @@ Controlling a 4-DOF robot arm to do our bidding, using the power of coding and a
 #### [Embedded Systems Coursework (2022)](emedded_systems_2022)
 Creating a smart IoT bicycle lock to keep bicycles safe.
 <p align="left">  <img width="400" src="../assets/ES_Lock/lock-mounted.png"> </p>
-
----
-#### [ATtiny85 Digital Clock (2022)](digital_clock_2022)
-An ATTiny85 powered digital clock, powering an OLED display.
 
 ---
 #### [Hexapod Robot (2020)](hexapod_robot_2020)
