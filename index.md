@@ -10,8 +10,11 @@ layout: home
 
 ---
 <br>
-<h2>About Me</h2>
-I am an incoming Masters student at ETH Zurich, doing a MSc in Robotics, Systems, and Control. Recently, I completed a BEng in Electronic and Information Engineering (or, Computer Engineering) at Imperial College London.
+<h2>About</h2>
+
+I am a robotics R&D engineer at [DSO National Labs](https://www.dso.org.sg/) in Singapore 🇸🇬, working on localization and state estimation for a variety of different robots.
+
+Previously, I completed a MSc in [Robotics, Systems, and Control](https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/robotics-systems-and-control.html) at ETH Zurich. Before that, I completed a BEng in [Electronic and Information Engineering](https://www.imperial.ac.uk/study/courses/undergraduate/electronic-information-meng/) (or, Computer Engineering) at Imperial College London.
 
 Robotics has always been my passion since I picked it up in high school - there is something fascinating about being able to impart intelligence to otherwise inanimate objects, allowing them to perform useful tasks and potentially replace humans.
 
@@ -21,19 +24,17 @@ In my spare time, I enjoy dreaming up (and sometimes building) robots, some of w
 <br>
 <h2>Links</h2>
 <a href="https://www.instagram.com/stratosphere._/">
-  <img align="left" alt="Tianyi's Instagram" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" />
-</a>
+  <img align="left" alt="Tianyi's Instagram" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/ea278fba079c63b9cbfad555b8a2867bb7899c2a/icons/instagram.svg" />
+</a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/tianyilim/">
-  <img align="left" alt="Tianyi's LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />
-</a>
-<a href="0.tianyi.lim@gmail.com">
-  <img align="left" alt="Tianyi's Email" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" />
-</a>
+  <img align="left" alt="Tianyi's LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/ea278fba079c63b9cbfad555b8a2867bb7899c2a/icons/linkedin.svg" />
+</a>&nbsp;&nbsp;
+<a href="0 DOT tianyi DOT lim AT gmail DOT com">
+  <img align="left" alt="Tianyi's Email" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/ea278fba079c63b9cbfad555b8a2867bb7899c2a/icons/gmail.svg" />
+</a>&nbsp;&nbsp;
 <a href="https://tianyilim.github.io/assets/TianyiLim_CV.pdf">
-  <img align="left" alt="Tianyi's CV" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobeacrobatreader.svg" />
+  <img align="left" alt="Tianyi's CV" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/ea278fba079c63b9cbfad555b8a2867bb7899c2a/icons/adobeacrobatreader.svg" />
 </a>
-
-![vistors](https://visitor-badge.glitch.me/badge?page_id=tianyilim.tianyilim.github.io)
 
 ---
 <br>
