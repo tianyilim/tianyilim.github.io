@@ -4,11 +4,39 @@ title: Photos
 permalink: /photos/
 ---
 
-Chase Jarvis said that the best camera is the one you have with you, but I would prefer shooting with my Nikon D750, if possible.
+Chase Jarvis said that the best camera is the one you have with you, but I would prefer shooting with my Nikon D750, if possible. On occasion, I post photos on Instagram under `@stratosphere._`.
 
-These are the 6 most recent photos from my Instagram account, `@stratosphere._`
+Here are some random images from my travels.
 
-<div class="row">
+*The Albert memorial near Imperial College*
+<p align="left">  <img width="600" src="../assets/gallery/albert-memorial.jpg"> </p>
+
+*Sunset in Barcelona*
+<p align="left">  <img width="600" src="../assets/gallery/barcelona-sunsets.jpg"> </p>
+
+*Bittersweet memories of the Dolomites*
+<p align="left">  <img width="600" src="../assets/gallery/dolomities-camper.jpg"> </p>
+
+*(re)learning control policies for manual driving in Denmark*
+<p align="left">  <img width="600" src="../assets/gallery/first-manual.jpg"> </p>
+
+*The Castle*
+<p align="left">  <img width="600" src="../assets/gallery/foggy-castle.jpg"> </p>
+
+*Mysterious Fussen*
+<p align="left">  <img width="600" src="../assets/gallery/foggy-fussen.jpg"> </p>
+
+*Stars | Snow | Skiing*
+<p align="left">  <img width="600" src="../assets/gallery/snow-and-stars.jpg"> </p>
+
+*Cycling in Switzerland - uphills and downhills were equally fun*
+<p align="left">  <img width="600" src="../assets/gallery/swiss-cycling.jpg"> </p>
+
+*Who let the dogs out?*
+<p align="left">  <img width="600" src="../assets/gallery/the-dawgs.jpg"> </p>
+
+
+<!-- <div class="row">
   <div class="column">
     <img id="img0" src="https://profilepageimages.usecue.com/images/stratosphere._/0.jpg" alt="Pic1">
     <div class="left_capt">
@@ -79,7 +107,7 @@ These are the 6 most recent photos from my Instagram account, `@stratosphere._`
         img.src = attrs.getNamedItem("src").value;
         // alert(img.src);
         var img_height, img_width, aspect_ratio;
-        
+
         // this only works at runtime
         img.onload = function(){
             img_height = img.naturalHeight;
@@ -118,7 +146,4 @@ These are the 6 most recent photos from my Instagram account, `@stratosphere._`
     setImgFlex("img5");
     getJsonForCaption();
 
-
-    
-
-</script>
+</script> -->
