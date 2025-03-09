@@ -17,14 +17,28 @@ Mostly for my convenience, here are some of my config files: [tmux](assets/tmux.
 ---
 #### [F1Tenth with ETH(2023-2024)](forzaETH)
 
+Participating in robotics competitions has always been important to me -- I've done it in one way or another since high school. I had the privillege of competing in another autonomous driving competition, for 1/10 scale RC cars. Initially, I focused more on robust localizaiton, but subsequently dabbled in improving our trajectory planning and perception.
+
+Our *ForzaETH* team has been very successful, earning 1st and 3rd places in the 2023 and 2024 international competitions at ICRA.
+
+<p align="left">  <img width="400" src="../assets/F1Tenth/racecars.jpg"> </p>
+
 ---
-#### [Pose Graph Optimization for large-scale SLAM](master_thesis)
+#### [Pose Graph Optimization for large-scale SLAM (2024)](master_thesis)
+
+Master's Thesis with the Computer Vision and Geometry Group, ETH. Open source Visual SLAM solutions don't really scale to very large (~1h+) trajectories due to the worst-case cubic complexity of pose graph optimization in the number of poses, and scaling issues on map storage size. We proposed some methods to get around this.
 
 ---
 #### [Basic RL for vision-based drone flight (2024)](rpgDroneCourse)
 
+A cool intensive course by the Robotics and Perception Group, UZH. We applied basic RL algorithms in simulation and on real drones, on the task of controlling a drone to visually film / track a target.
+
 ---
 #### [Perception for Big Autonomous Trucks (2023)](embotechInternship)
+
+I helped to develop perception systems for autonomous trucks in a 6-month internship with [Embotech](https://www.embotech.com/).
+
+<p align="left">  <img width="400" src="../assets/EmbotechIntern/snowy_embotruck.jpg"> </p>
 
 ---
 #### [BEng Final Year Project (2022)](beng_fyp_2022)
