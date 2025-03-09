@@ -14,7 +14,7 @@ layout: home
 
 I am a robotics R&D engineer at [DSO National Labs](https://www.dso.org.sg/) in Singapore 🇸🇬, working on localization and state estimation for a variety of different robots.
 
-Previously, I completed a MSc in [Robotics, Systems, and Control](https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/robotics-systems-and-control.html) at ETH Zurich. Before that, I completed a BEng in [Electronic and Information Engineering](https://www.imperial.ac.uk/study/courses/undergraduate/electronic-information-meng/) (or, Computer Engineering) at Imperial College London.
+I completed a MSc in [Robotics, Systems, and Control](https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/robotics-systems-and-control.html) at ETH Zurich in 2024. Before that, I completed a BEng in [Electronic and Information Engineering](https://www.imperial.ac.uk/study/courses/undergraduate/electronic-information-meng/) (or, Computer Engineering) at Imperial College London in 2022.
 
 Robotics has always been my passion since I picked it up in high school - there is something fascinating about being able to impart intelligence to otherwise inanimate objects, allowing them to perform useful tasks and potentially replace humans.
 
