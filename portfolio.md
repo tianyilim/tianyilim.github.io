@@ -24,7 +24,7 @@ Our *ForzaETH* team has been very successful, earning 1st and 3rd places in the 
 <p align="left">  <img width="400" src="../assets/F1Tenth/racecars.jpg"> </p>
 
 ---
-#### [Pose Graph Optimization for large-scale SLAM (2024)](master_thesis)
+#### [Pose Graph Optimization for large-scale SLAM (2024)](tianyilim.github.io/2go_slam_website)
 
 Master's Thesis with the Computer Vision and Geometry Group, ETH. Open source Visual SLAM solutions don't really scale to very large (~1h+) trajectories due to the worst-case cubic complexity of pose graph optimization in the number of poses, and scaling issues on map storage size. We proposed some methods to get around this.
 
