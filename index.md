@@ -29,7 +29,7 @@ In my spare time, I enjoy dreaming up (and sometimes building) robots, some of w
 <a href="https://www.linkedin.com/in/tianyilim/">
   <img align="left" alt="Tianyi's LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/ea278fba079c63b9cbfad555b8a2867bb7899c2a/icons/linkedin.svg" />
 </a>&nbsp;&nbsp;
-<a href="0 DOT tianyi DOT lim AT gmail DOT com">
+<a href="mailto:0.tianyi.lim@gmail.com">
   <img align="left" alt="Tianyi's Email" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/ea278fba079c63b9cbfad555b8a2867bb7899c2a/icons/gmail.svg" />
 </a>&nbsp;&nbsp;
 <a href="https://tianyilim.github.io/assets/TianyiLim_CV.pdf">
