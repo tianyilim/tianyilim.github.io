@@ -10,7 +10,9 @@ _a localisation/perception field roboticist's perspective_
 
 ---
 
-I attended IROS this year in part to present my [master's thesis work](https://tianyilim.github.io/2go_slam_website/). Here are some posters from various fields that I found particularly interesting.
+I attended IROS this year in part to present my [master's thesis work](https://tianyilim.github.io/2go_slam_website/), done in collaboration with [CVG](https://cvg.ethz.ch/) and [RPL Bonn](https://rpl.uni-bonn.de/). While it's been a while since I've worked on this project, I think there are still some good ideas there (2-view estimation, tighter integration of machine learning into classical VSLAM, better place recognition for loop closure detection).
+
+In the meantime, here are some posters from various fields that I found particularly interesting.
 
 ## Robot Localisation
 
