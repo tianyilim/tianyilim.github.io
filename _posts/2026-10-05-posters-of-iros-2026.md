@@ -32,9 +32,9 @@ The rest of your robotics team doesn't care much about the clever details of the
 
     This VIO method goes completely structureless! Instead of estimating both landmark positions and camera/IMU state, as previous VIO methods do (OpenVINS/SqrtVINS, VINS-Mono, etc.), it only estimates rotation, position and linear velocity.
 
-    Despite the much simpler state formulation, the authors show that trajectory estimation accuracy is not significantly affected.
+    Despite the much simpler state formulation, the authors show that trajectory estimation accuracy is comparable to existing baselines.
 
-    On an original Jetson Nano, a backend update takes about 1 ms on the EuRoC dataset – 10x faster than the EKF-based SqrtVINS and ~70x faster than the sliding-window optimisation-based VINS-Mono. Pretty impressive!
+    On an original Jetson Nano, a backend update takes about 1 ms on the EuRoC dataset – 10x faster than the EKF-based SqrtVINS and ~60x faster than the sliding-window optimisation-based VINS-Mono. Pretty impressive!
 
     They don't report the runtime of the visual frontend, though, so the overall speed-up should be taken with a pinch of salt. Jetson devices have hardware acceleration for common VIO tasks like KLT tracking and feature detection through NVIDIA's [Vision Programming Interface (VPI)](https://developer.nvidia.com/embedded/vpi), so this may not be a major issue there, but on smaller VIO sensors like the [Mighty Camera](https://mightycamera.com/) the trade-off might not be worth it.
 
@@ -52,11 +52,9 @@ The rest of your robotics team doesn't care much about the clever details of the
 
     Classical VSLAM frontends typically rely on lightweight, handcrafted descriptors such as ORB or BRISK for keypoint and landmark correspondence. These have largely been outclassed by learned descriptors like SuperPoint.
 
-    However, since SuperPoint+SuperGlue matching is slow and requires a GPU, the authors propose an interesting architecture to augment any existing descriptor. They show that their approach is computationally lightweight and effectively boosts matching accuracy. They then use Desc++ to enhance ORB descriptors and integrate it into various existing VSLAM/VIO systems, demonstrating significant accuracy gains at a cost of only ~5 ms of extra computation.
+    However, since SuperPoint+SuperGlue matching is slow and requires a GPU, the authors propose an interesting architecture to augment any existing descriptor. They show that their approach is computationally lightweight and effectively boosts matching accuracy. They then use Desc++ to enhance ORB (and also SIFT, SuperPoint and ALIKE) descriptors and integrate it into various existing VSLAM/VIO systems, demonstrating significant accuracy gains at a cost of only ~5 ms of extra computation.
 
     I'd have liked to see a comparison with XFeat, a lightweight learned feature detector/descriptor. Compared to Desc++'s claimed 2.4M params for descriptor enhancement alone, XFeat fits an entire keypoint detector and descriptor into 1.54M params.
-
-    I'd also like to see a comparison against LightGlue, since both approaches fundamentally aim to do the same thing: improve keypoint matching for better correspondence!
 
     </details>
 
@@ -132,7 +130,7 @@ While 3DGS isn't directly applicable to many robotics tasks, these papers borrow
 
     This work approximates a Euclidean Distance Field (EDF) with a weighted sum of Gaussians. This is interesting, as prior voxel-grid approaches to ESDFs (e.g. Voxblox, nvblox) don't scale well to large environments, while implicit neural methods offer no guarantees and need GPUs for deployment.
 
-    The proposed method is a tracking and mapping (i.e. lidar odometry) pipeline that uses Gaussians alone as the map representation. I've included it in the Perception and Mapping section because I think its benefits have not yet been fully explored: this is the first time I've seen localisation and path planning share the *same* map representation! Typically, LIO methods maintain a voxel grid of past points, while path planners separately use either a height map or an ESDF.
+    The proposed method is a pose tracking pipeline that uses Gaussians alone as the map representation. I've included it in the Perception and Mapping section because I think its benefits have not yet been fully explored: this is the first time I've seen localisation and path planning share the *same* map representation! Typically, LIO methods maintain a voxel grid of past points, while path planners separately use either a height map or an ESDF.
 
     This is still very new work; it will be interesting to see what the authors come up with next!
 
@@ -149,7 +147,7 @@ No definitive answers at this conference, but here are some practical works that
     <details markdown="1">
         
     <summary>
-        tldr: encode partially observed 2D room boundaries into a latent space, and predict complete room boundaries from it. This supports faster navigation/exploration in unknown indoor environments.
+        tldr: encode partially observed 2D room boundaries into a latent space, and predict a complete 3D scene graph from it. This could enable faster navigation/exploration in unknown indoor environments.
     </summary>
 
     <a href="/assets/IROS2026/3DSceneGraphPrediction.jpg"><img width="100%" src="/assets/IROS2026/3DSceneGraphPrediction.jpg" alt="3D Scene Graph Prediction poster"></a>
